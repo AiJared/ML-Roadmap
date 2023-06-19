@@ -8,8 +8,10 @@ numpy = "*"
 scikit-learn = "==1.2.1"
 flask = "*"
 waitress = "*"
+gunicorn = "*"
 
 [dev-packages]
+awsebcli = "*"
 
 [requires]
 python_version = "3.9"
